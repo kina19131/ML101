@@ -1,0 +1,1 @@
+load 'wordVecV.mat'
